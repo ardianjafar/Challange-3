@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "228342981353",
+    "firebase_url": "https://pantaucovid-19-9d5a6.firebaseio.com",
+    "project_id": "pantaucovid-19-9d5a6",
+    "storage_bucket": "pantaucovid-19-9d5a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:228342981353:android:f1690122d46507240ec678",
+        "android_client_info": {
+          "package_name": "id.e.pantaucovid_19"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "228342981353-lfbl690dfs94r31lfc5gfr6620i0d6m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpKIlnUNab1dO1XW6O0nnInDMKrfqh9oI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "228342981353-lfbl690dfs94r31lfc5gfr6620i0d6m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
